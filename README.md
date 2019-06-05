@@ -1,6 +1,8 @@
 # API Challenge
 
-Design and implement a RESTful API that could be used to keep track of product inventory counts and locations. 
+Design and implement a RESTful API that could be used to keep track of product inventory counts and locations.
+Product is just an object for sale, which has attributes like id, name, price etc. 
+Location is a warehouse or a store, where products are stored.
 
 
 # Requirements
